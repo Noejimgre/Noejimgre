@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersécurité Offensive · 🌐 Développement Web · 🐍 Scripting Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noe-jimenez-greverent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noé-jimenez-greverent)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noe.jimenez.greverent@gmail.com)
 
 </div>
@@ -136,7 +136,7 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 
 **Tu recrutes ? Tu veux collaborer ? Tu veux parler cybersécurité ?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noé_Jimenez--Greverent-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noe-jimenez-greverent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noé_Jimenez--Greverent-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/noé-jimenez-greverent)
 [![Email](https://img.shields.io/badge/Email-noe.jimenez.greverent@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:noe.jimenez.greverent@gmail.com)
 
 </div>
