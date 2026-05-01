@@ -87,7 +87,7 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 | 🔍 [nmap-auto-scanner](#) | Script d'automatisation de scans Nmap | Python |
 | 💥 [http-bruteforce-tool](#) | Outil de brute-force HTTP | Python |
 | 🌐 [web-projects](#) | Sites vitrines réalisés | HTML/CSS/JS |
-| 📝 [ctf-writeups](#) | Write-ups de machines HTB & THM | Markdown |
+
 
 ---
 
