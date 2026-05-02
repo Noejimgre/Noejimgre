@@ -1,13 +1,11 @@
-<div align="center">
-
 # 👋 Hey, moi c'est Noé Jimenez-Greverent
 
-### 🔐 Cybersécurité Offensive · 🌐 Développement Web · 🐍 Scripting Python
+🎯 Étudiant BTS CIEL | Cybersécurité Offensive | Développement Web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-jimenez-greverent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noé-jimenez-greverent)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noe.jimenez.greverent@gmail.com)
-
-</div>
 
 ---
 
@@ -17,16 +15,21 @@
 
 Ma particularité ? Je comprends les systèmes **des deux côtés** — comment les construire, et comment les attaquer. Cette double vision me permet d'identifier des vulnérabilités que la plupart des développeurs ne voient pas.
 
-- 🎓 BTS CIEL — Spécialisation Cybersécurité (CNED)
+- 🎓 BTS CIEL — Spécialisation Cybersécurité (CNED) — *en cours, 2025–2027*
 - 🏆 Bac Général mention AB — Spécialités NSI · SI · Maths — Section Européenne Anglais B2
 - 📍 France
-- 🔍 **Actuellement à la recherche d'un stage en pentesting / sécurité offensive**
+- 🔍 **Actuellement à la recherche d'un stage en informatique (cybersécurité / développement)**
 
 ---
 
 ## 🔐 Cybersécurité Offensive
 
+```
+Reconnaissance  →  Scanning  →  Exploitation  →  Post-Exploitation
+```
+
 ### Outils maîtrisés
+
 | Catégorie | Outils |
 |---|---|
 | Scanning & Recon | Nmap, Wireshark, OSINT |
@@ -37,7 +40,7 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 
 ### Plateformes CTF
 - ⚔️ **Hack The Box** — machines actives et retirées
-- 🏴 **TryHackMe** — parcours Jr Penetration Tester
+- 🏴 **TryHackMe** — parcours Jr Penetration Tester (en cours)
 - 🔓 **OverTheWire** — challenges système et réseau
 - 💀 **VulnHub** — labs offline
 
@@ -46,7 +49,7 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 ## 🌐 Développement Web
 
 - **Langages** : HTML · CSS · JavaScript · SQL
-- **~15 sites vitrines** réalisés de A à Z
+- **~15 sites vitrines** réalisés de A à Z — responsive, sans framework
 - Sensibilité forte à la **sécurité applicative** :
   - Prévention XSS, injections SQL, CSRF
   - Tests de vulnérabilités sur mes propres projets avec Burp Suite
@@ -57,10 +60,13 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 
 ```python
 # Ce que je fais avec Python
-- Automatisation de scans Nmap avec parsing des résultats
-- Scripts de brute-force HTTP (requests + threading)
-- Intégration OpenCV pour détection de mouvement
-- Traitement et analyse de données
+- Scanner Nmap automatisé avec analyse de risques et rapport JSON/Markdown
+- Outil de brute-force HTTP multi-threadé (POST, Basic Auth, Digest)
+- Recon automatisé : DNS, WHOIS, headers, sous-domaines, ports
+- OSINT : recherche de username sur 40+ plateformes en parallèle
+- CTF toolkit : 15+ encodages/chiffrements (Base64, Caesar, XOR, Vigenère...)
+- Analyseur de logs : détection SQLi, XSS, brute-force, scanners
+- Auditeur de mots de passe : entropie, score, temps de crack estimé
 ```
 
 ```bash
@@ -72,22 +78,23 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 
 ---
 
+## 📂 Mes projets
+
+| Repo | Description | Tech |
+|---|---|---|
+| 🔍 [nmap-auto-scanner](https://github.com/Noejimgre/nmap-auto-scanner) | Scanner Nmap automatisé — 6 modes, analyse de risques, rapports JSON+MD | Python |
+| 💥 [http-bruteforce-tool](https://github.com/Noejimgre/http-bruteforce-tool) | Brute-force HTTP multi-threadé — POST form, Basic Auth, CSRF support | Python |
+| 🛡️ [cyber-tools](https://github.com/Noejimgre/cyber-tools) | Suite d'outils sécu : recon, OSINT, CTF toolkit, log analyzer, password auditor | Python |
+| 🌐 [web-projects](https://github.com/Noejimgre/web-projects) | 10 sites vitrines responsive — restaurant, immo, cabinet avocat... | HTML/CSS/JS |
+
+
+---
+
 ## 🏆 Hackathons & Compétitions
 
 - 🥇 **3 hackathons remportés**
 - 🚁 **Podium — Concours NAE Drone**
 - Travail en équipe sur des défis techniques sous contrainte de temps
-
----
-
-## 📂 Mes projets
-
-| Repo | Description | Tech |
-|---|---|---|
-| 🔍 [nmap-auto-scanner](#) | Script d'automatisation de scans Nmap | Python |
-| 💥 [http-bruteforce-tool](#) | Outil de brute-force HTTP | Python |
-| 🌐 [web-projects](#) | Sites vitrines réalisés | HTML/CSS/JS |
-
 
 ---
 
@@ -136,7 +143,7 @@ Ma particularité ? Je comprends les systèmes **des deux côtés** — comment 
 
 **Tu recrutes ? Tu veux collaborer ? Tu veux parler cybersécurité ?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noé_Jimenez--Greverent-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noe-jimenez-greverent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noé_Jimenez--Greverent-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noé-jimenez-greverent)
 [![Email](https://img.shields.io/badge/Email-noe.jimenez.greverent@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:noe.jimenez.greverent@gmail.com)
 
 </div>
